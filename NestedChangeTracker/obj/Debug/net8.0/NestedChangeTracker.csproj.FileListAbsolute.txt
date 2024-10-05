@@ -15,3 +15,4 @@ c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\refint\Nest
 c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.pdb
 c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.genruntimeconfig.cache
 c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\ref\NestedChangeTracker.dll
+C:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.sourcelink.json

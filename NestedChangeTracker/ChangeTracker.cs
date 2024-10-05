@@ -25,14 +25,12 @@ public class ChangeTracker<TModel> : INotifyPropertyChanged where TModel : new()
         return JsonConvert.DeserializeObject<TModel>(JsonConvert.SerializeObject(model)) ?? new TModel();
     }
 
-    private bool DeepEquals(TModel obj1, TModel obj2)
+    private static bool DeepEquals(TModel obj1, TModel obj2)
     {
-        var obj1Json = JsonConvert.SerializeObject(obj1);
-        var obj2Json = JsonConvert.SerializeObject(obj2);
-        return obj1Json == obj2Json;
+        return JsonConvert.SerializeObject(obj1) == JsonConvert.SerializeObject(obj2);
     }
 
-    public bool HasChanges => !DeepEquals(Original, Current);
+    public bool HasChanges => !ChangeTracker<TModel>.DeepEquals(Original, Current);
 
     public virtual void Reset()
     {
