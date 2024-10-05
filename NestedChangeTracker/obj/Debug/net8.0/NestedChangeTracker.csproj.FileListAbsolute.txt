@@ -1,0 +1,17 @@
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\NestedChangeTracker.exe
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\NestedChangeTracker.deps.json
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\NestedChangeTracker.runtimeconfig.json
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\NestedChangeTracker.dll
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\NestedChangeTracker.pdb
+c:\Projects\NestedChangeTracker\NestedChangeTracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.csproj.AssemblyReference.cache
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.AssemblyInfoInputs.cache
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.AssemblyInfo.cs
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.csproj.CoreCompileInputs.cache
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedCh.5B96F4DC.Up2Date
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.dll
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\refint\NestedChangeTracker.dll
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.pdb
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\NestedChangeTracker.genruntimeconfig.cache
+c:\Projects\NestedChangeTracker\NestedChangeTracker\obj\Debug\net8.0\ref\NestedChangeTracker.dll
